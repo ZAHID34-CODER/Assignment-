@@ -46,5 +46,24 @@ padding: 116px 267.5px ;
 }
 .head-section{
  background-image: url(/B12A01-landing-launchpad/Assets/Hero-bg.png);
- 
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px;
+}
+.action-item{
+    align-items: center;
+    
+}
+.btn-primary3{
+    color: aliceblue;
+    padding: 12px 36px;
+    font-weight: bold;
+    background-color: blue;
+    border: none;
+    border-radius: 7px;
+    width: 229px;
+    height: 48px;
+    cursor: pointer;
 }
