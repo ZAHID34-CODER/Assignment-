@@ -1,0 +1,42 @@
+/* Nav style */
+nav{
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+margin: 50px 150px;
+}
+
+
+nav ul li  {
+    list-style: none;
+}
+
+nav ul li a button{
+    background-color: blue;
+    border: none;
+    width: 132px;
+    height: 48px;
+    border-radius: 7px;
+}
+.btn-primary1{
+    color: aliceblue;
+    padding: 12px 36px;
+    font-weight: bold;
+    background-color: blue;
+    border: none;
+    border-radius: 7px;
+    width: 132px;
+    height: 48px;
+    cursor: pointer;
+}
+.btn-primary2{
+    color: aliceblue;
+    padding: 12px 36px;
+    font-weight: bold;
+    background-color: blue;
+    border: none;
+    border-radius: 7px;
+    width: 174px;
+    height: 48px;
+    cursor: pointer;
+}
